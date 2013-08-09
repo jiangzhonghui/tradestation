@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderNotifyService", "OrderNotifyService\OrderNotifyService.csproj", "{08DB4D59-8DB8-43A1-94B5-E2E63D406FA6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TSOrderNotifyServiceSetup", "Setup1\Setup1.vdproj", "{85CC2EC6-3444-44FA-9788-7411727D4426}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenderAlert-TS8", "SenderSMS-TS8\SenderAlert-TS8.csproj", "{FB74769F-E173-412E-8EB6-4F693CDCEE54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SenderAlert-Winquote", "SenderAlert-Winquote\SenderAlert-Winquote.csproj", "{E3C4A708-E55B-4AC4-81FA-FF67CAE5E04F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinquoteAutoJob", "..\WinquoteAutoJob\WinquoteAutoJob\WinquoteAutoJob.csproj", "{ED07B83C-B611-46A8-8CFF-C48E9C8F90B9}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.Debug = "False"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MQTTMailServer", "MQTTMailServer\MQTTMailServer.csproj", "{42F1F34E-1862-42E7-BF6D-8C05C2375B9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08DB4D59-8DB8-43A1-94B5-E2E63D406FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08DB4D59-8DB8-43A1-94B5-E2E63D406FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08DB4D59-8DB8-43A1-94B5-E2E63D406FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08DB4D59-8DB8-43A1-94B5-E2E63D406FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85CC2EC6-3444-44FA-9788-7411727D4426}.Debug|Any CPU.ActiveCfg = Debug
+		{85CC2EC6-3444-44FA-9788-7411727D4426}.Release|Any CPU.ActiveCfg = Release
+		{FB74769F-E173-412E-8EB6-4F693CDCEE54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB74769F-E173-412E-8EB6-4F693CDCEE54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB74769F-E173-412E-8EB6-4F693CDCEE54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB74769F-E173-412E-8EB6-4F693CDCEE54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C4A708-E55B-4AC4-81FA-FF67CAE5E04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C4A708-E55B-4AC4-81FA-FF67CAE5E04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C4A708-E55B-4AC4-81FA-FF67CAE5E04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C4A708-E55B-4AC4-81FA-FF67CAE5E04F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED07B83C-B611-46A8-8CFF-C48E9C8F90B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED07B83C-B611-46A8-8CFF-C48E9C8F90B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED07B83C-B611-46A8-8CFF-C48E9C8F90B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED07B83C-B611-46A8-8CFF-C48E9C8F90B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F1F34E-1862-42E7-BF6D-8C05C2375B9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F1F34E-1862-42E7-BF6D-8C05C2375B9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F1F34E-1862-42E7-BF6D-8C05C2375B9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F1F34E-1862-42E7-BF6D-8C05C2375B9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+	<appSettings>
+		<add key ="DB" value ="C:\Trade\OrderNotifyService\OrderNotifyService\bin\Debug"/>
+		<add key ="MailBackUp" value ="C:\Inetpub\mailroot\Backup"/>
+	</appSettings>
+</configuration>

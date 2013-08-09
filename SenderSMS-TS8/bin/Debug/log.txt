@@ -1,0 +1,451 @@
+
+-----2010-07-15 17:34:29----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-15 17:34:29----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-15 17:34:29----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-15 17:34:29----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-15 17:34:29----
+TradeStation - Strategy Active Order for @CL 
+Order: Sell 1 @CL @ Market 
+Account: SIM585680F 
+Occurred: 2010-7-10 0:28:00 
+Signal: Sell 
+Interval: 1 min. 
+Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\CL响铃
+insert into ta_main(Msg,crtime) values('Sell 1 @CL @ Market','2010-7-10 0:28:00')
+----End----
+
+-----2010-07-15 17:35:24----
+TradeStation - Strategy Active Order for @CL 
+Order: Sell 1 @CL @ Market 
+Account: SIM585680F 
+Occurred: 2010-7-10 0:28:00 
+Signal: Sell 
+Interval: 1 min. 
+Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\CL响铃
+insert into ta_main(Msg,crtime) values('Sell 1 @CL @ Market','2010-7-10 0:28:00')
+----End----
+
+-----2010-07-15 17:35:27----
+TradeStation - Strategy Active Order for @CL 
+Order: Sell 1 @CL @ Market 
+Account: SIM585680F 
+Occurred: 2010-7-10 0:28:00 
+Signal: Sell 
+Interval: 1 min. 
+Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\CL响铃
+insert into ta_main(Msg,crtime) values('Sell 1 @CL @ Market','2010-7-10 0:28:00')
+----End----
+
+-----2010-07-15 17:35:30----
+TradeStation - Strategy Active Order for @CL 
+Order: Sell 1 @CL @ Market 
+Account: SIM585680F 
+Occurred: 2010-7-10 0:28:00 
+Signal: Sell 
+Interval: 1 min. 
+Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\CL响铃
+insert into ta_main(Msg,crtime) values('Sell 1 @CL @ Market','2010-7-10 0:28:00')
+----End----
+
+-----2010-07-15 17:35:36----
+TradeStation - Strategy Active Order for @CL 
+Order: Sell 1 @CL @ Market 
+Account: SIM585680F 
+Occurred: 2010-7-10 0:28:00 
+Signal: Sell 
+Interval: 1 min. 
+Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\CL响铃
+insert into ta_main(Msg,crtime) values('Sell 1 @CL @ Market','2010-7-10 0:28:00')
+----End----
+
+-----2010-07-15 17:35:37----
+TradeStation - Strategy Active Order for @CL 
+Order: Sell 1 @CL @ Market 
+Account: SIM585680F 
+Occurred: 2010-7-10 0:28:00 
+Signal: Sell 
+Interval: 1 min. 
+Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\CL响铃
+insert into ta_main(Msg,crtime) values('Sell 1 @CL @ Market','2010-7-10 0:28:00')
+----End----
+
+-----2010-07-21 22:19:18----
+TradeStation - Strategy Active Order for FVU10
+	Order: Buy to Cover 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 2:04:57
+	Signal: Cover
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:19:18----
+TradeStation - Strategy Active Order for FVU10
+	Order: Buy to Cover 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 7:19:56
+	Signal: Cover#2
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:19:18----
+TradeStation - Strategy Active Order for FVU10
+	Order: Sell Short 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 0:54:56
+	Signal: MyShort
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:19:18----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:19:18----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:19:18----
+TradeStation - Strategy Active Order for TYU10
+	Order: Sell 1 TYU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 1:19:56
+	Signal: Sell
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY升1
+
+
+
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:19:18----
+TradeStation - Strategy Active Order for FVU10
+	Order: Sell Short 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 3:14:56
+	Signal: MyShort
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:19:18----
+TradeStation - Strategy Active Order for TYU10
+	Order: Sell 1 TYU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 3:14:56
+	Signal: Sell
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY升1
+
+
+
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:19:18----
+TradeStation - Strategy Active Order for TYU10
+	Order: Buy 1 TYU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 2:24:56
+	Signal: MyLong
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY升1
+
+
+
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:35:39----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:35:39----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-21 22:35:39----
+TradeStation - Strategy Active Order for FVU10
+	Order: Sell Short 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 0:54:56
+	Signal: MyShort
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+insert into ta_main(Msg,crtime) values('Sell Short 1 FVU10 @ Market','2010-7-21 0:54:56')
+----End----
+
+-----2010-07-21 22:35:40----
+TradeStation - Strategy Active Order for TYU10
+	Order: Sell 1 TYU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 1:19:56
+	Signal: Sell
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY升1
+
+
+
+insert into ta_main(Msg,crtime) values('Sell 1 TYU10 @ Market','2010-7-21 1:19:56')
+----End----
+
+-----2010-07-21 22:35:40----
+TradeStation - Strategy Active Order for FVU10
+	Order: Buy to Cover 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 2:04:57
+	Signal: Cover
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+insert into ta_main(Msg,crtime) values('Buy to Cover 1 FVU10 @ Market','2010-7-21 2:04:57')
+----End----
+
+-----2010-07-21 22:35:40----
+TradeStation - Strategy Active Order for TYU10
+	Order: Buy 1 TYU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 2:24:56
+	Signal: MyLong
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY升1
+
+
+
+insert into ta_main(Msg,crtime) values('Buy 1 TYU10 @ Market','2010-7-21 2:24:56')
+----End----
+
+-----2010-07-21 22:35:40----
+TradeStation - Strategy Active Order for TYU10
+	Order: Sell 1 TYU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 3:14:56
+	Signal: Sell
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY升1
+
+
+
+insert into ta_main(Msg,crtime) values('Sell 1 TYU10 @ Market','2010-7-21 3:14:56')
+----End----
+
+-----2010-07-21 22:35:40----
+TradeStation - Strategy Active Order for FVU10
+	Order: Sell Short 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 3:14:56
+	Signal: MyShort
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+insert into ta_main(Msg,crtime) values('Sell Short 1 FVU10 @ Market','2010-7-21 3:14:56')
+----End----
+
+-----2010-07-21 22:35:40----
+TradeStation - Strategy Active Order for FVU10
+	Order: Buy to Cover 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 7:19:56
+	Signal: Cover#2
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+insert into ta_main(Msg,crtime) values('Buy to Cover 1 FVU10 @ Market','2010-7-21 7:19:56')
+----End----
+
+-----2010-07-26 23:06:51----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:51----
+TradeStation - Strategy Active Order for FVU10
+	Order: Buy to Cover 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 2:04:57
+	Signal: Cover
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+insert into ta_main(Msg,crtime) values('Buy to Cover 1 FVU10 @ Market','2010-7-21 2:04:57')
+----End----
+
+-----2010-07-26 23:06:54----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:54----
+TradeStation - Strategy Active Order for FVU10
+	Order: Buy to Cover 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 7:19:56
+	Signal: Cover#2
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+insert into ta_main(Msg,crtime) values('Buy to Cover 1 FVU10 @ Market','2010-7-21 7:19:56')
+----End----
+
+-----2010-07-26 23:06:54----
+TradeStation - Strategy Active Order for FVU10
+	Order: Sell Short 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 0:54:56
+	Signal: MyShort
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+insert into ta_main(Msg,crtime) values('Sell Short 1 FVU10 @ Market','2010-7-21 0:54:56')
+----End----
+
+-----2010-07-26 23:06:54----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:54----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:54----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:54----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:54----
+TradeStation - Strategy Active Order for TYU10
+	Order: Sell 1 TYU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 1:19:56
+	Signal: Sell
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY升1
+
+
+
+insert into ta_main(Msg,crtime) values('Sell 1 TYU10 @ Market','2010-7-21 1:19:56')
+----End----
+
+-----2010-07-26 23:06:54----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:54----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:54----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:54----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:06:54----
+TradeStation - Strategy Active Order for FVU10
+	Order: Sell Short 1 FVU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 3:14:56
+	Signal: MyShort
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY跌1
+
+
+
+insert into ta_main(Msg,crtime) values('Sell Short 1 FVU10 @ Market','2010-7-21 3:14:56')
+----End----
+
+-----2010-07-26 23:06:54----
+TradeStation - Strategy Active Order for TYU10
+	Order: Sell 1 TYU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 3:14:56
+	Signal: Sell
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY升1
+
+
+
+insert into ta_main(Msg,crtime) values('Sell 1 TYU10 @ Market','2010-7-21 3:14:56')
+----End----
+
+-----2010-07-26 23:06:54----
+TradeStation - Strategy Active Order for TYU10
+	Order: Buy 1 TYU10 @ Market
+	Account: SIM585680F
+	Occurred: 2010-7-21 2:24:56
+	Signal: MyLong
+	Interval: 5 min.
+	Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\TY升1
+
+
+
+insert into ta_main(Msg,crtime) values('Buy 1 TYU10 @ Market','2010-7-21 2:24:56')
+----End----
+
+-----2010-07-26 23:06:54----
+TradeStation - Strategy Active Order for @CL 
+Order: Sell 1 @CL @ Market 
+Account: SIM585680F 
+Occurred: 2010-7-10 0:28:00 
+Signal: Sell 
+Interval: 1 min. 
+Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\CL响铃
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:07:07----
+The file is not Trade Station order notification file.
+----End----
+
+-----2010-07-26 23:07:07----
+The file is not Trade Station order notification file.
+----End----

@@ -1,0 +1,9 @@
+C:\Timo\Trade\OrderNotifyService\MQTTMailServer\bin\Debug\MQTTMailServer.exe.config
+C:\Timo\Trade\OrderNotifyService\MQTTMailServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Timo\Trade\OrderNotifyService\MQTTMailServer\obj\Debug\MQTTMailServer.Form1.resources
+C:\Timo\Trade\OrderNotifyService\MQTTMailServer\obj\Debug\MQTTMailServer.Properties.Resources.resources
+C:\Timo\Trade\OrderNotifyService\MQTTMailServer\obj\Debug\MQTTMailServer.csproj.GenerateResource.Cache
+C:\Timo\Trade\OrderNotifyService\MQTTMailServer\bin\Debug\MQTTMailServer.exe
+C:\Timo\Trade\OrderNotifyService\MQTTMailServer\bin\Debug\MQTTMailServer.pdb
+C:\Timo\Trade\OrderNotifyService\MQTTMailServer\obj\Debug\MQTTMailServer.exe
+C:\Timo\Trade\OrderNotifyService\MQTTMailServer\obj\Debug\MQTTMailServer.pdb

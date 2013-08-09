@@ -1,0 +1,150 @@
+#
+# Creating new log
+#
+6/5/2012 - 11:34:09 AM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MqttLib.Core.Messages.MqttMessage.ReadCompleteBuffer(Stream str, Byte[] buffer)
+   at MqttLib.Core.Messages.MqttConnackMessage.ConstructFromStream(Stream str)
+   at MqttLib.Core.Messages.MqttMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MqttConnackMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MessageFactory.CreateMessage(Stream str, Byte header)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+6/5/2012 - 11:34:10 AM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An established connection was aborted by the software in your host machine. ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MqttLib.Core.Messages.MqttMessage.ReadCompleteBuffer(Stream str, Byte[] buffer)
+   at MqttLib.Core.Messages.MqttConnackMessage.ConstructFromStream(Stream str)
+   at MqttLib.Core.Messages.MqttMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MqttConnackMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MessageFactory.CreateMessage(Stream str, Byte header)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+6/5/2012 - 11:35:22 AM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+6/5/2012 - 1:46:02 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host. ---> System.Net.Sockets.SocketException: An existing connection was forcibly closed by the remote host
+   at System.Net.Sockets.Socket.EndReceive(IAsyncResult asyncResult)
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.EndRead(IAsyncResult asyncResult)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+6/5/2012 - 1:46:51 PM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+6/5/2012 - 1:57:43 PM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+6/5/2012 - 2:00:38 PM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+6/5/2012 - 4:11:31 PM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+7/11/2012 - 8:45:21 AM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+7/17/2012 - 10:47:06 AM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+7/17/2012 - 11:07:01 AM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at System.IO.Stream.ReadByte()
+   at MqttLib.Core.Messages.MqttMessage.DecodeVariableHeaderLength(Stream str)
+   at MqttLib.Core.Messages.MqttMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MqttConnackMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MessageFactory.CreateMessage(Stream str, Byte header)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+7/18/2012 - 10:52:00 AM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+7/18/2012 - 1:19:13 PM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call. ---> System.Net.Sockets.SocketException: A request to send or receive data was disallowed because the socket had already been shut down in that direction with a previous shutdown call
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+7/25/2012 - 8:53:59 AM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: Safe handle has been closed. ---> System.ObjectDisposedException: Safe handle has been closed
+   at System.Net.UnsafeNclNativeMethods.OSSOCK.WSARecv(SafeCloseSocket socketHandle, WSABuffer& buffer, Int32 bufferCount, Int32& bytesTransferred, SocketFlags& socketFlags, SafeHandle overlapped, IntPtr completionRoutine)
+   at System.Net.Sockets.Socket.DoBeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, OverlappedAsyncResult asyncResult)
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, SocketError& errorCode, AsyncCallback callback, Object state)
+   at System.Net.Sockets.Socket.BeginReceive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags, AsyncCallback callback, Object state)
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+7/26/2012 - 9:28:45 AM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MqttLib.Core.Messages.MqttMessage.ReadCompleteBuffer(Stream str, Byte[] buffer)
+   at MqttLib.Core.Messages.MqttMessage.ReadUshortFromStream(Stream str)
+   at MqttLib.Core.Messages.MqttMessage.ReadStringFromStream(Stream str)
+   at MqttLib.Core.Messages.MqttPublishMessage.ConstructFromStream(Stream str)
+   at MqttLib.Core.Messages.MqttMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MqttPublishMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MessageFactory.CreateMessage(Stream str, Byte header)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+7/26/2012 - 9:29:08 AM - [ERROR]System.IO.IOException: Unable to read data from the transport connection: A blocking operation was interrupted by a call to WSACancelBlockingCall. ---> System.Net.Sockets.SocketException: A blocking operation was interrupted by a call to WSACancelBlockingCall
+   at System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- End of inner exception stack trace ---
+   at System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   at MqttLib.Core.Messages.MqttMessage.ReadCompleteBuffer(Stream str, Byte[] buffer)
+   at MqttLib.Core.Messages.MqttMessage.ReadStringFromStream(Stream str)
+   at MqttLib.Core.Messages.MqttPublishMessage.ConstructFromStream(Stream str)
+   at MqttLib.Core.Messages.MqttMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MqttPublishMessage..ctor(Stream str, Byte header)
+   at MqttLib.Core.Messages.MessageFactory.CreateMessage(Stream str, Byte header)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)
+#
+# Creating new log
+#
+7/30/2012 - 10:24:46 AM - [ERROR]System.ObjectDisposedException: Cannot access a disposed object.
+Object name: 'System.Net.Sockets.NetworkStream'.
+   at System.Net.Sockets.NetworkStream.BeginRead(Byte[] buffer, Int32 offset, Int32 size, AsyncCallback callback, Object state)
+   at MqttLib.Core.StreamManager.listen(IAsyncResult asyncResult)

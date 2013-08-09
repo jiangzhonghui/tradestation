@@ -1,0 +1,63 @@
+Sell 1 @CL @ Market
+/P:13193346416 /M:Sell 1 @CL @ Market
+update ta_main set status=1 where id=1213
+Sell 1 @CL @ Market
+/P:13193346416 /M:Sell 1 @CL @ Market
+update ta_main set status=1 where id=1214
+Sell 1 @CL @ Market
+/P:13193346416 /M:Sell 1 @CL @ Market
+update ta_main set status=1 where id=1215
+Sell 1 @CL @ Market
+/P:13193346416 /M:Sell 1 @CL @ Market
+update ta_main set status=1 where id=1216
+Sell 1 @CL @ Market
+/P:13193346416 /M:Sell 1 @CL @ Market
+update ta_main set status=1 where id=1217
+Sell 1 @CL @ Market
+/P:13193346416 /M:Sell 1 @CL @ Market
+update ta_main set status=1 where id=1218
+Sell 1 @CL @ Market
+/P:13193346416 /M:Sell 1 @CL @ Market
+update ta_main set status=1 where id=1219
+Sell 1 @CL @ Market
+/P:13193346416 /M:Sell 1 @CL @ Market
+update ta_main set status=1 where id=1220
+Sell 1 @CL @ Market
+/P:13193346416 /M:Sell 1 @CL @ Market
+update ta_main set status=1 where id=1221
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:54:57',status=2 where id=1220
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:55:02',status=2 where id=1213
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:55:06',status=2 where id=1214
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:55:10',status=2 where id=1215
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:55:13',status=2 where id=1216
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:55:17',status=2 where id=1217
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:57:55',status=2 where id=1213
+SMS Sender 错误
+update ta_main set sttime='2010-09-06 08:57:57',status=0 where status=1 and id=1213
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:58:02',status=2 where id=1214
+SMS Sender 错误
+update ta_main set sttime='2010-09-06 08:58:04',status=0 where status=1 and id=1214
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:58:09',status=2 where id=1215
+SMS Sender 错误
+update ta_main set sttime='2010-09-06 08:58:11',status=0 where status=1 and id=1215
+Sell 1 @CL @ Market
+ /u /p:13193346416 /m:"Sell 1 @CL @ Market"
+update ta_main set sttime='2010-09-06 08:58:16',status=2 where id=1216

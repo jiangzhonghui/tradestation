@@ -1,0 +1,9 @@
+E:\Tradestation\OrderNotifyService\SenderSMS-TS8\bin\Debug\SenderAlert-TS8.exe.config
+E:\Tradestation\OrderNotifyService\SenderSMS-TS8\obj\Debug\SenderAlert-TS8.exe
+E:\Tradestation\OrderNotifyService\SenderSMS-TS8\obj\Debug\SenderAlert-TS8.pdb
+E:\Tradestation\OrderNotifyService\SenderSMS-TS8\bin\Debug\SenderAlert-TS8.exe
+E:\Tradestation\OrderNotifyService\SenderSMS-TS8\bin\Debug\SenderAlert-TS8.pdb
+E:\Tradestation\OrderNotifyService\SenderSMS-TS8\obj\Debug\SenderAlert-TS8.csprojResolveAssemblyReference.cache
+E:\Tradestation\OrderNotifyService\SenderSMS-TS8\obj\Debug\SenderSMS_TS8.Form1.resources
+E:\Tradestation\OrderNotifyService\SenderSMS-TS8\obj\Debug\SenderSMS_TS8.Properties.Resources.resources
+E:\Tradestation\OrderNotifyService\SenderSMS-TS8\obj\Debug\SenderAlert-TS8.csproj.GenerateResource.Cache

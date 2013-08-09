@@ -1,0 +1,7 @@
+TradeStation - Strategy Active Order for @CL 
+Order: Sell 1 @CL @ Market 
+Account: SIM585680F 
+Occurred: 2010-7-10 0:28:00 
+Signal: Sell 
+Interval: 1 min. 
+Workspace: C:\Program Files\TradeStation 8.7 (Build 3085)\MyWork\CLœÏ¡Â
